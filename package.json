@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-browsertab",
+  "version": "0.2.0",
+  "description": "In-app browser tabs for Android and iOS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/cordova-plugin-browsertab.git"
+  },
+  "keywords": [
+    "sfsafariviewcontroller",
+    "custom-tabs",
+    "browser-tabs",
+    "browser"
+  ],
+  "author": "iainmcgin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/google/cordova-plugin-browsertab/issues"
+  },
+  "homepage": "https://github.com/google/cordova-plugin-browsertab#readme"
+}
